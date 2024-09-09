@@ -1,0 +1,40 @@
+.hero {
+    background-color: #28a745;
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #28a745;
+}
+
+.descripcion {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+.descripcion h2 {
+    color: #28a745;
+}
+.descripcion p {
+    color: #333;
+}
+
+.card-title {
+    color: #28a745;
+}
+
+.img-form{
+    width: 35%;
+}
+
+.carousel{
+    height: 85%;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
